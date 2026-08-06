@@ -227,7 +227,7 @@ This repository is intended for educational, portfolio, and preliminary engineer
 
 **Shubham**
 
-**Process Engineer | 12+ Years Experience**
+**Process Engineer
 
 Specializing in:
 
