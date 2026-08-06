@@ -1,0 +1,13 @@
+---------------------------------------
+Separator Sizing Results
+---------------------------------------
+Recommended Diameter : 0.50 m
+Recommended Length   : 22.92 m
+Gas Velocity         : 2.546 m/s
+Allowable Velocity   : 2.760 m/s
+Residence Time       : 5.00 min
+L/D Ratio            : 45.84
+Gas Capacity Check   : PASS
+Residence Time Check : PASS
+API Geometry Check   : FAIL
+Overall Status       : REVISE

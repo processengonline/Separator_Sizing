@@ -1,0 +1,12 @@
+gas_flow_m3_s: 0.5        # gas volumetric flow, m3/s
+oil_flow_m3_s: 0.01       # oil vol flow, m3/s
+water_flow_m3_s: 0.005    # water vol flow, m3/s
+rho_g_kg_m3: 1.2
+rho_l_kg_m3: 800.0
+k_factor_m_s: 0.107
+residence_time_min: 5
+diameter_min_m: 0.5
+diameter_max_m: 3.0
+diameter_step_m: 0.1
+min_L_over_D: 2.5
+max_L_over_D: 5.0
